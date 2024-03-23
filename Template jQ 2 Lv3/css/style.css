@@ -636,7 +636,7 @@ h1 span {
     display: flex;
     gap: 10px;
     justify-content: center;
-
+    transition: 0.1s;
 }
 
 .our-team .bullets span {
@@ -644,7 +644,7 @@ h1 span {
     width: 12px;
     border-radius: 50%;
     background-color: #aaa;
-
+    transition: 0.1s;
 
 }
 
